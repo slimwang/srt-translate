@@ -1,0 +1,99 @@
+1
+00:00:00,340 --> 00:00:04,675
+Now as you might have discovered,
+these four- or
+
+2
+00:00:04,675 --> 00:00:09,500
+five-letter symbols
+represent particular funds.
+
+3
+00:00:09,500 --> 00:00:12,960
+So VTINX is a mutual fund.
+
+4
+00:00:14,550 --> 00:00:17,350
+DSUM is an ETF.
+
+5
+00:00:17,350 --> 00:00:20,630
+FAGIX is another mutual fund.
+
+6
+00:00:20,630 --> 00:00:24,828
+You probably discovered the Bridgewater
+Pure Alpha doesn't have one of
+
+7
+00:00:24,828 --> 00:00:28,160
+these symbols, and
+that's because it's a hedge fund.
+
+8
+00:00:28,160 --> 00:00:33,780
+These guys have symbols, these
+short several-letter abbreviations,
+
+9
+00:00:33,780 --> 00:00:37,570
+so that they can trade more easily
+on exchanges that have hundreds and
+
+10
+00:00:37,570 --> 00:00:42,810
+thousands of different assets
+that are being traded.
+
+11
+00:00:42,810 --> 00:00:46,420
+Whereas when you go to
+engage with a hedge fund,
+
+12
+00:00:46,420 --> 00:00:48,860
+it's just a one-on-one relationship.
+
+13
+00:00:48,860 --> 00:00:54,810
+Hedge funds typically have no more
+than 100 investors, whereas all these
+
+14
+00:00:54,810 --> 00:00:59,610
+other types of symbols have thousands
+and maybe even millions of investors.
+
+15
+00:00:59,610 --> 00:01:03,090
+Finally, SPLV is an ETF.
+
+16
+00:01:03,090 --> 00:01:04,930
+A couple of other things to mention.
+
+17
+00:01:04,930 --> 00:01:09,709
+It's fairly common practice that
+
+18
+00:01:09,709 --> 00:01:14,487
+mutual funds have five letters and
+
+19
+00:01:14,487 --> 00:01:17,960
+ETFs have four or three.
+
+20
+00:01:17,960 --> 00:01:22,790
+Again, you can see this
+mutual fund has five letters.
+
+21
+00:01:22,790 --> 00:01:27,430
+And this is another
+ETF with four letters.
+
+22
+00:01:27,430 --> 00:01:28,900
+Okay, on to more fun.
