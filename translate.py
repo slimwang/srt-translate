@@ -109,8 +109,8 @@ def translate(srt,dir,output_dir):
                         zh_file.write("\n")
                 dt = []
     except:
-        f = open("error.txt","w+")
-        f.write("script crashed with " + srt)
+        f = open("error.txt","a")
+        f.write("script crashed with " + str(srt) + '\n')
     else:
         # close files
         en_file.close()
