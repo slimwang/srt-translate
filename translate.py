@@ -3,6 +3,8 @@ from textblob import TextBlob
 import re
 
 
+# counter
+counter = 0
 #====== check method ======
 
 def check_contain_english(check_str):
@@ -18,6 +20,7 @@ def check_contain_full_stop(check_str):
     return False
     
 def translate(srt,dir,output_dir):
+    global counter 
     try:
         # ====== extract English text and translate======
         file_name = srt
@@ -117,5 +120,7 @@ def translate(srt,dir,output_dir):
         zh_file.close()
     
     # print
-    print str(srt) + " translated"
+    
+    counter += 1
+    print str(srt) + " translated." + "No." + str(counter)
         
