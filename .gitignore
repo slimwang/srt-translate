@@ -1,4 +1,7 @@
-subtitles
-filter/zh-cn
-filter/error-file
-filter/error.txt
+1.0/subtitles
+1.0/filter/zh-cn
+1.0/filter/error-file
+1.0/filter/error.txt
+2.0/untranslated/en-us
+2.0/untranslated/zh-cn
+2.0/untranslated/untranslated
